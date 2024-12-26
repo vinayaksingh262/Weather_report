@@ -83,7 +83,7 @@ API_KEY = "a022478e6e6052140c51d731f1408d22"
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Vsr2622003*",
+    "password": "********",
     "database": "db1",
 }
 
